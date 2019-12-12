@@ -1,2 +1,6 @@
-# Snuffaluffagus
-For once, a name without a project rather than the inverse. What would Snuffaluffagus do if Snuffaluffagus were a computer program?
+# Snuffleupagus
+For once, a name without a project rather than the inverse. What would Snuffleupagus do if Snuffleupagus were a computer program? ("There's no such thing as a Snuffleupagus!")
+
+(ironically, too hard to spell)
+
+(probably destroy evil IDE spellcheckers and autocorrect)
