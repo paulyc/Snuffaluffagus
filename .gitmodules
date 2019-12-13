@@ -1,0 +1,6 @@
+[submodule "bioperl-live"]
+	path = bioperl-live
+	url = https://github.com/bioperl/bioperl-live.git
+[submodule "ensembl-git-tools"]
+	path = ensembl-git-tools
+	url = https://github.com/Ensembl/ensembl-git-tools
